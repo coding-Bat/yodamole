@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GCS-Trainer_yodamole.iml" filepath="$PROJECT_DIR$/GCS-Trainer_yodamole.iml" />
+      <module fileurl="file://C:\Users\pbs2h17ale\GCS-Trainer_yodamole\yodamole\GCS-Trainer_yodamole.iml" filepath="C:\Users\pbs2h17ale\GCS-Trainer_yodamole\yodamole\GCS-Trainer_yodamole.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yodamole.iml" filepath="$PROJECT_DIR$/yodamole.iml" />
     </modules>
   </component>
 </project>
